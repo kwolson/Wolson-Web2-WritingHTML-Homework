@@ -21,54 +21,11 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/footer\/facebook.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/facebook.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/footer\/instagram.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/instagram.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/footer\/twitter.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/twitter.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/section-1\/Hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 174790,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-1\/Hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/section-2\/hero.png" : {
+    "\/deploy\/img\/footer\/facebook-square-brands.png" : {
       "ft" : 32768,
-      "iS" : 27906,
+      "iS" : 476,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-2\/hero.png",
+      "oAP" : "\/deploy\/img\/footer\/facebook-square-brands.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -77,106 +34,158 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-3\/grid-bot.jpg" : {
-      "ft" : 16384,
-      "iS" : 76676,
-      "jF" : 0,
+    "\/deploy\/img\/footer\/instagram-square-brands.png" : {
+      "ft" : 32768,
+      "iS" : 739,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-3\/grid-bot.jpg",
+      "oAP" : "\/deploy\/img\/footer\/instagram-square-brands.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-4\/Hero 2.jpg" : {
-      "ft" : 16384,
-      "iS" : 112828,
-      "jF" : 0,
+    "\/deploy\/img\/footer\/twitter-square-brands.png" : {
+      "ft" : 32768,
+      "iS" : 571,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-4\/Hero 2.jpg",
+      "oAP" : "\/deploy\/img\/footer\/twitter-square-brands.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/gallery-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 70885,
-      "jF" : 0,
+    "\/deploy\/img\/footer\/youtube-square-brands.png" : {
+      "ft" : 32768,
+      "iS" : 548,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/gallery-1.jpg",
+      "oAP" : "\/deploy\/img\/footer\/youtube-square-brands.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/gallery-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 25130,
-      "jF" : 0,
+    "\/deploy\/img\/section-1\/hero.png" : {
+      "ft" : 32768,
+      "iS" : 782741,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/gallery-2.jpg",
+      "oAP" : "\/deploy\/img\/section-1\/hero.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/gallery-3.jpg" : {
-      "ft" : 16384,
-      "iS" : 41368,
-      "jF" : 0,
+    "\/deploy\/img\/section-2\/hero2.png" : {
+      "ft" : 32768,
+      "iS" : 664365,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/gallery-3.jpg",
+      "oAP" : "\/deploy\/img\/section-2\/hero2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/gallery-4.jpg" : {
-      "ft" : 16384,
-      "iS" : 73846,
-      "jF" : 0,
+    "\/deploy\/img\/section-2\/leaves.png" : {
+      "ft" : 32768,
+      "iS" : 171594,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/gallery-4.jpg",
+      "oAP" : "\/deploy\/img\/section-2\/leaves.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/gallery-5.jpg" : {
-      "ft" : 16384,
-      "iS" : 26651,
-      "jF" : 0,
+    "\/deploy\/img\/section-2\/lineofplants.png" : {
+      "ft" : 32768,
+      "iS" : 110029,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/gallery-5.jpg",
+      "oAP" : "\/deploy\/img\/section-2\/lineofplants.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/gallery-6.jpg" : {
-      "ft" : 16384,
-      "iS" : 44889,
-      "jF" : 0,
+    "\/deploy\/img\/section-3\/alocasia.png" : {
+      "ft" : 32768,
+      "iS" : 82913,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/gallery-6.jpg",
+      "oAP" : "\/deploy\/img\/section-3\/alocasia.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-3\/monstera.png" : {
+      "ft" : 32768,
+      "iS" : 82913,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-3\/monstera.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-3\/peromia.png" : {
+      "ft" : 32768,
+      "iS" : 104944,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-3\/peromia.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-3\/snake.png" : {
+      "ft" : 32768,
+      "iS" : 65450,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-3\/snake.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-3\/succulent.png" : {
+      "ft" : 32768,
+      "iS" : 137945,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-3\/succulent.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -208,19 +217,59 @@
       "oAP" : "\/design\/structure-tags.sketch",
       "oF" : 0
     },
-    "\/dev\/footer.kit" : {
+    "\/dev\/content\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/footer.html",
+      "oAP" : "\/dev\/content\/footer.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/index.html",
+      "oF" : 2
+    },
+    "\/dev\/content\/section-1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/section-1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/section-2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/section-2.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/section-3.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/section-3.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/head.html",
       "oF" : 0
     },
@@ -228,25 +277,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
-    },
-    "\/dev\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/header.html",
-      "oF" : 0
-    },
-    "\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -413,45 +446,24 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/section-1.kit" : {
+    "\/README.md" : {
       "cB" : 0,
-      "ft" : 2048,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-1.html",
-      "oF" : 0
-    },
-    "\/dev\/section-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-2.html",
-      "oF" : 0
-    },
-    "\/dev\/section-3.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-3.html",
-      "oF" : 0
-    },
-    "\/dev\/section-4.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-4.html",
-      "oF" : 0
-    },
-    "\/dev\/section-5.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-5.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     }
   },
   "hooks" : [
@@ -462,7 +474,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
-    "displayValue" : "Web-2-InClass",
+    "displayValue" : "Wolson-Web2-WritingHTML-Homework",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0
