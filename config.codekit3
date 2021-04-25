@@ -213,16 +213,16 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/footer.html",
       "oF" : 0
     },
-    "\/dev\/content\/header.kit" : {
+    "\/dev\/content\/index.html" : {
       "cB" : 0,
-      "ft" : 2048,
+      "ft" : 8192,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/header.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/index.html",
       "oF" : 0
     },
     "\/dev\/content\/index.kit" : {
@@ -263,6 +263,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/global\/head.html",
+      "oF" : 0
+    },
+    "\/dev\/global\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
