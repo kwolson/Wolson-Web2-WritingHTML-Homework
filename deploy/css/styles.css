@@ -408,17 +408,17 @@ button {
   cursor: pointer;
 }
 
-.yellow-button {
-  background-color: #FFD205;
+.green-button {
+  background-color: #175E2E;
   border: none;
   font-size: 1rem;
   font-weight: 600;
   padding: 10px;
   transition: 0.25s;
 }
-.yellow-button:hover {
-  background-color: #000;
-  color: #fff;
+.green-button:hover {
+  background-color: #fff;
+  color: #175E2E;
 }
 
 /* =============
@@ -442,15 +442,17 @@ textarea {
 /* =============
     Navigation
 ============= */
-a {
-  text-decoration: none;
-  transition: 0.25s;
-}
-
 /* =============
     Header
 ============= */
 header {
-  background-color: #2A3036;
+  background-color: #fff;
   display: grid;
+}
+/* =============
+    Footer
+============= */
+footer {
+  background-color: #DAA7D9;
+  color: #fff;
 }
