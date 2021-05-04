@@ -190,16 +190,13 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/js\/scripts-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
+    "\/deploy\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 0
     },
     "\/design\/homeworkDemo.sketch" : {
       "cB" : 0,
@@ -207,14 +204,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/design\/homeworkDemo.sketch",
-      "oF" : 0
-    },
-    "\/dev\/content\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/index.html",
       "oF" : 0
     },
     "\/dev\/content\/index.kit" : {
@@ -229,7 +218,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/section-1.html",
       "oF" : 0
     },
@@ -237,7 +226,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/section-2.html",
       "oF" : 0
     },
@@ -245,7 +234,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/section-3.html",
       "oF" : 0
     },
