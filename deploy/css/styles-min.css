@@ -93,6 +93,7 @@ abbr[title] {
   /* 1 */
   text-decoration: underline;
   /* 2 */
+  -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted;
   /* 2 */
 }
@@ -535,11 +536,14 @@ footer > div section ul {
   padding-bottom: 16px;
 }
 footer > div section ul li {
+  display: -webkit-flex;
   display: flex;
   margin-bottom: 16px;
 }
 footer > div section ul li div {
+  -webkit-align-items: center;
   align-items: center;
+  display: -webkit-flex;
   display: flex;
   margin-right: 16px;
 }
@@ -572,6 +576,24 @@ footer > div #newsletter form input {
   padding: 16px 2%;
   width: 96%;
 }
+footer > div #newsletter form input::-webkit-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #2A3036;
+  /* Firefox */
+  opacity: 1;
+}
+footer > div #newsletter form input::-moz-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #2A3036;
+  /* Firefox */
+  opacity: 1;
+}
+footer > div #newsletter form input:-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #2A3036;
+  /* Firefox */
+  opacity: 1;
+}
 footer > div #newsletter form input::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #2A3036;
@@ -587,6 +609,7 @@ footer > div #newsletter form input::-ms-input-placeholder {
   color: #2A3036;
 }
 footer > div #newsletter form button {
+  display: -webkit-flex;
   display: flex;
   margin-left: auto;
   margin-top: 16px;
@@ -609,10 +632,12 @@ footer > div #newsletter form button {
 }
 footer > div #social ul {
   border: none;
+  display: -webkit-flex;
   display: flex;
 }
 @media (min-width: 1024px) {
   footer > div #social ul {
+    -webkit-justify-content: flex-end;
     justify-content: flex-end;
   }
 }
