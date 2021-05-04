@@ -1,0 +1,12 @@
+#section-3{
+
+    @include md{
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: "section-3";
+    }
+
+    @include lg{
+        grid-template-columns: auto;
+    }
+}
