@@ -9,18 +9,6 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
-    "\/deploy\/css\/styles-min.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles-min-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -270,9 +258,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/index.html",
-      "oF" : 3
+      "oF" : 1
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
