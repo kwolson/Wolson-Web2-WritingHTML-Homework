@@ -1,12 +1,45 @@
-#section-3{
+#section-3 {
 
-    @include md{
-        display: grid;
-        grid-template-columns: 16px auto 16px;
-        grid-template-areas: "section-3";
-    }
+	>div {
 
-    @include lg{
-        grid-template-columns: auto;
-    }
+
+		ul {
+			display: grid;
+			gap: 16px;
+			
+			li {
+
+			}
+			#snake {
+			
+				>div {
+					background-image: url("/img/section-3/snake.png");
+				}
+			}
+			#peperomia {
+				
+				>div {
+					background-image: url("/img/section-3/peromia.png");
+				}
+			}
+			#succulent {
+				
+				>div {
+					background-image: url("/img/section-3/succulent.png");
+				}
+			}
+			#alocasia {
+				
+				>div {
+					background-image: url("/img/section-3/alocasia.png");
+				}
+			}
+			#monstera {
+				
+				>div {
+					background-image: url("/img/section-3/monstera.png");
+				}
+			}
+		}
+	}
 }
