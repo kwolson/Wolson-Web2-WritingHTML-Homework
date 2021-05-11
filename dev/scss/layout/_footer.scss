@@ -3,7 +3,6 @@
 ============= */
 footer {
 	background-color: #DAA7D9;
-	color: #fff;
 	padding: 16px;
 
 	@include xl {
@@ -16,9 +15,11 @@ h1, h2 {
 	font-family: ohno-blazeface, sans-serif;
     font-weight: 100;
     font-style: normal;
+	color: #fff
 }
 #ConnecticutBody, #nova, #MassBody {
 	font-family: mr-eaves-modern, sans-serif;
     font-weight: 400;
     font-style: normal;
+	color: #175E2E
 }
