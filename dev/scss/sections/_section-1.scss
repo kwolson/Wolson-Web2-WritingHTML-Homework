@@ -1,9 +1,35 @@
 #section-1 {
 	>div {
+		h1 {
+    font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+	>div {
+		body {
+			font-family: mr-eaves-modern, sans-serif;
+
+			font-weight: 400;
+			font-style: normal;
+}
+} 
+
 		img {
 			display: grid;
 			width: 100%;
 		}
 		
+	}
+}
+#button1, #button2 {
+	h1 {
+		font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+	}
+	button {
+		font-family: mr-eaves-modern, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 	}
 }
