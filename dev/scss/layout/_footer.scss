@@ -11,15 +11,37 @@ footer {
 		grid-template-columns: auto 1200px auto;
 	}
 }
-h1, h2 {
+h1 {
 	font-family: ohno-blazeface, sans-serif;
     font-weight: 100;
     font-style: normal;
 	color: #fff
 }
-#ConnecticutBody, #nova, #MassBody {
+h2{
+	font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+	color: #175E2E
+}
+#ConnecticutBody{
 	font-family: mr-eaves-modern, sans-serif;
     font-weight: 400;
     font-style: normal;
 	color: #175E2E
+}
+#nova{
+	font-family: mr-eaves-modern, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	color: #175E2E
+}
+ #MassBody {
+	font-family: mr-eaves-modern, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	color: #175E2E
+}
+button {
+	color: #fff;
+	background-color: #175E2E;
 }
